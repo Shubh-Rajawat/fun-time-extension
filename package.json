@@ -1,8 +1,10 @@
 {
   "name": "fun-time",
   "displayName": "fun-time",
+  "publisher": "Shubh94",
   "description": "simply to read a joke in you vscode while coding to lighten your mood. author-- Shubh Rajawat",
   "version": "0.0.1",
+  "repository": "https://github.com/Shubh-Rajawat/fun-time-extension",
   "engines": {
     "vscode": "^1.89.0"
   },
